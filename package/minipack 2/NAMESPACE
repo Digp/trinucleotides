@@ -1,0 +1,14 @@
+import(veriNA3d)
+
+export(
+    read_file,
+    scoring,
+    probability,
+    discretize,
+    scoring_updated,
+
+    extract_ntinfo,
+    fit_data,
+    plot_gaussians,
+    plot_score
+)

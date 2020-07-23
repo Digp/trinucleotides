@@ -1,0 +1,18 @@
+Package: minipack
+Type: Package
+Title: Biological Structure Analysis
+Version: 0.99.0
+Date: 2019-10-15
+Authors: Eric Matamoros, Diego Gallego
+Maintainer: Eric Matamoros <eric.matamoros@irbbarcelona.org>
+Description:
+  R function for ematamoros' projects. 
+License: GPL-3
+Depends: R (>= 3.3)
+Imports: veriNA3d, dplyr, 
+         methods, graphics, grDevices, stats, utils,
+         bio3d, parallel, jsonlite,
+         plot3D, MASS, RColorBrewer, RANN, Rcpp
+Packaged: 2017-03-14 18:02:52 UTC; dgallego
+LazyData: true
+Encoding: UTF-8
