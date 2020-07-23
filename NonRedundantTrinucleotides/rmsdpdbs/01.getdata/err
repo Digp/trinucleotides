@@ -1,0 +1,8 @@
+
+Thanks for using veriNA3d!
+If you find it useful for your research, please cite us.
+Find the details typing "citation('veriNA3d')".
+
+Warning message:
+In mclapply(1:length(pdbIDs), mc.preschedule = FALSE, mc.cores = cores,  :
+  151 function calls resulted in an error
