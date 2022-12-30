@@ -1,5 +1,15 @@
-To install the minipack easily:
+Creation of non-redundant dataset of RNA trinucleotides
 
-`install.packages("http://mmb.irbbarcelona.org/gitlab/eric/trinucleotides/tree/master/package/minipack_0.99.0.tar.gz", repos = NULL)`
+This project is discontinued
 
-DOES NOT WORK!!
+
+This project was developed in the MMB (Molecular Modeling and bioinformatics) laboratory at IRB Barcelona.
+
+Authors:
+
+Eric Matamoros
+Diego Gallego
+
+Tutors:
+Dr. Pablo D. Dans
+Dr. Modesto Orozco
