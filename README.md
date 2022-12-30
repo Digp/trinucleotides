@@ -1,18 +1,18 @@
-#Creation of non-redundant dataset of RNA trinucleotides
+# Creation of non-redundant dataset of RNA trinucleotides
 
 This project is discontinued
 
 
 This project was developed in the MMB (Molecular Modeling and bioinformatics) laboratory at IRB Barcelona.
 
-#Authors:
+# Authors:
 
 Eric Matamoros
 
 Diego Gallego
 
 
-#Tutors:
+# Tutors:
 
 Dr. Pablo D. Dans
 
